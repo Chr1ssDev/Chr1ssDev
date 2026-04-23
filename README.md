@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm Chris<br><br>💻 Software & programming enthusiast <br><br>🔌 Electronics as a side passion<br><br>🧠 I like building tools and solve problema though I don't understand them<br><br>🚀 That's why I'm always learning and working on new projects <br><br>⚙️ Contact me, it's always a pleasure to work with new people<br>
+👋 Hey! I'm Chris<br><br>💻 Software & programming enthusiast <br><br>🔌 Electronics as a side passion<br><br>🧠 I like building tools and solve problems though I don't understand them<br><br>🚀 That's why I'm always learning and working on new projects <br><br>⚙️ Contact me, it's always a pleasure to work with new people<br>
 
 
 ## 🌐 Socials:
